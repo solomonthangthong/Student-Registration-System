@@ -6,6 +6,7 @@ Windows
 - Download source files
 - Compile with makefile
 - Run exe file
+
 Linux
 - Download source files
 - Compile with command make
